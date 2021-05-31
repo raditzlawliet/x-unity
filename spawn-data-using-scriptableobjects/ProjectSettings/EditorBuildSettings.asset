@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ScriptableObject Move.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ScriptableObject Move Part A.unity
+    guid: a34224417cea41d47b3ececd6725b98b
+  - enabled: 1
+    path: Assets/Scenes/ScriptableObject Move Part B.unity
+    guid: c6d7cc8a66ac9ed44b120ba3d43c1114
+  m_configObjects: {}
